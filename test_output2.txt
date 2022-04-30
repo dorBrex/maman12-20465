@@ -1,0 +1,14 @@
+
+Hello user, please enter as many characters as you would like:
+
+There are 18 characters in your input
+
+There are 11 alpha-numerical characters in your input
+
+The characters inserted by the user are:
+
+	1	]	[	{
+	}	a	b	c
+	d	e	f	g
+	h	i	j	+
+	-	+

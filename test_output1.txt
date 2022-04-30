@@ -1,0 +1,14 @@
+
+Hello user, please enter as many characters as you would like:
+
+There are 20 characters in your input
+
+There are 20 alpha-numerical characters in your input
+
+The characters inserted by the user are:
+
+	1	2	3	4
+	5	6	7	8
+	9	1	0	a
+	b	c	d	e
+	a	s	d	f
