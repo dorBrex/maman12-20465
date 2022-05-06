@@ -9,3 +9,6 @@ get_data.o: get_data.c get_data.h
 
 output.o: output.c output.h
 	gcc -c -Wall -ansi -pedantic output.c -o output.o -lm
+	
+clean:
+    rm -f lists_ab.o get_data.o output.o
